@@ -1,2 +1,3 @@
+added this command for revert command
 one more user added......
 users related info
